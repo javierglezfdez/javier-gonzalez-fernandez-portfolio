@@ -25,7 +25,7 @@ Este GitHub incluye:
 ## 📫 Contacto
 
 📍 Sevilla, España  
-📧 [Correo](mailto:tu-email@dominio.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/javier-gonzalez-fernandez)  
+📧 [Correo](mailto:javier.glez.fdez@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/javier-gonz%C3%A1lez-fern%C3%A1ndez/)  
 
 
 ## Descripción corta
@@ -99,5 +99,5 @@ Este GitHub está organizado en repositorios por áreas de especialización:
 
 ## Contacto
 
-📧 Correo: [tu-email@dominio.com](mailto:tu-email@dominio.com)  
-🔗 LinkedIn: [Javier González Fernández](https://www.linkedin.com/in/javier-gonzalez-fernandez)  
+📧 Correo: [javier.glez.fdez@gmail.com](mailto:javier.glez.fdez@gmail.com)  
+🔗 LinkedIn: [Javier González Fernández]([https://www.linkedin.com/in/javier-gonz%C3%A1lez-fern%C3%A1ndez/])  
