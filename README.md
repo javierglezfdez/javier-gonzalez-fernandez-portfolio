@@ -100,4 +100,4 @@ Este GitHub está organizado en repositorios por áreas de especialización:
 ## Contacto
 
 📧 Correo: [javier.glez.fdez@gmail.com](mailto:javier.glez.fdez@gmail.com)  
-🔗 LinkedIn: [Javier González Fernández]([https://www.linkedin.com/in/javier-gonz%C3%A1lez-fern%C3%A1ndez/])  
+🔗 [LinkedIn](https://www.linkedin.com/in/javier-gonz%C3%A1lez-fern%C3%A1ndez/)  
